@@ -1,5 +1,5 @@
 ---
-title: "pitching post"
+title: "pitching post2"
 description: "Lorem ipsum dolor sit amet"
 pubDate: "Jul 24 2023"
 author: "hokmts"
